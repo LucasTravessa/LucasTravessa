@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Recicle-Siri](https://www.linkedin.com/company/recicle-sir%C3%AD/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **lucas.cos.travessa@gmail.com**
 
