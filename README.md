@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Travessa</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Recicle-Siri](https://www.linkedin.com/company/recicle-sir%C3%AD/)
 
 - 🌱 I’m currently learning **Angular**
 
