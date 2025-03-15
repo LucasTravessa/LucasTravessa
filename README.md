@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Travessa</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A Full Stack dev from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **lucas.cos.travessa@gmail.com**
 
